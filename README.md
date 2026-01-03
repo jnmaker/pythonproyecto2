@@ -1,2 +1,2 @@
 # pythonproyecto2
-Proyecto 2 de Python
+Proyecto 2. ETL - Extract/Transform/Load
